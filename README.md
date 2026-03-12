@@ -14,7 +14,6 @@ The system utilizes a weighted-node graph theory approach. It calculates the sho
 ### ⚡ Operational Guide
 1. **Define Obstacles:** Click/Drag on the grid to place black "carbon" walls.
 2. **Initialize Solver:** Executes the Dijkstra search protocol.
-3. **Analyze Results:** The final path is highlighted in Safety Orange ($#FF5F1F$) for maximum visibility.
 
 ---
 **Operator Signature:** Syed Saad Bin Irfan
