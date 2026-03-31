@@ -6,6 +6,11 @@ A high-performance interactive tool designed to visualize the efficiency of the 
 ### 🧠 Logic Overview
 The system utilizes a weighted-node graph theory approach. It calculates the shortest distance from a start node to a target node by traversing neighbors and updating distances in $O(V^2)$ or $O(E \log V)$ efficiency.
 
+## Screenshots
+
+![UI](assets/UI.png)
+![Results](assets/RESULTS.png)
+
 ### 🛠️ Technical Stack
 * **Language:** Vanilla JavaScript (ES6+)
 * **Engine:** Custom DOM-Grid Controller
